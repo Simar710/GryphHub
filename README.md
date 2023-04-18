@@ -2,7 +2,7 @@
 
 •	University website built using Java OOP concepts.
 •	Built use case diagrams, class diagram, entity diagram and sequence diagram.
-• There are different users of the website:
+• There are different users of GryphHub website:
 1. Student
 2. Professor
 3. Graduate Student

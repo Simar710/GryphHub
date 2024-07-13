@@ -1,5 +1,9 @@
 # GryphHub
 
+##How to run
+1. Compile using javac UI.java
+2. Run using java UI.java
+
 •	University website built using Java OOP concepts.
 •	Built use case diagrams, class diagram, entity diagram and sequence diagram.
 

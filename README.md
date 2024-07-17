@@ -10,8 +10,7 @@
 • There are different users of GryphHub website:
 1. Student
 2. Professor
-3. Graduate Student
-4. Applicant
-5. Student Counsellor
+3. Applicant
+4. Student Counsellor
 
 Each user has different use of website. Therefore, the interface is different for each user.

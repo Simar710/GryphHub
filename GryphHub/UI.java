@@ -402,15 +402,13 @@ public class UI {
 
 							classList = userScanner.nextLine().strip();	
 
-							String out = studcounselor1.viewClasslist(classList).toString();
-							if(out != null)
-							{
-								System.out.println(out);
+							ClassList classListObj = studcounselor1.viewClasslist(classList);
+							if (classListObj != null) {
+								System.out.println(classListObj.toString());
+							} else {
+								System.out.println("No Student is registered for this course");
 							}
-							else
-							{
-								System.out.println("Failed to get ClassList");
-							}
+							
 							break;
 
 						case 5: 

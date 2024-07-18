@@ -1,5 +1,8 @@
 # GryphHub
 
+Here's is the link to demo video:
+https://drive.google.com/file/d/1G5Tm4yizdN0WLxkFbA1DWG1virJ5ZmPI/view?usp=sharing
+
 ##How to run
 1. Compile using javac UI.java
 2. Run using java UI.java
